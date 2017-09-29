@@ -1,0 +1,22 @@
+{
+    "fluentMethods": true,
+    "relationships": [],
+    "fields": [
+        {
+            "fieldName": "name",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "dob",
+            "fieldType": "Integer"
+        }
+    ],
+    "changelogDate": "20170928193630",
+    "dto": "no",
+    "service": "no",
+    "entityTableName": "artist",
+    "jpaMetamodelFiltering": false,
+    "pagination": "infinite-scroll",
+    "microserviceName": "microservices",
+    "searchEngine": false
+}
